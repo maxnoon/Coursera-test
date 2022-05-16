@@ -36,11 +36,13 @@
 }
 
 .item-title{
-  position: absolute;
   font-size: 125%;
+  position: absolute;
   top:0;
   right: 0px; 
   padding: 6px 90px;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
 }
 
 #Chicken {
