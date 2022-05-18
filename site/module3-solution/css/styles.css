@@ -15,7 +15,7 @@ body{
   padding-top:10px;
 }
 .navbar-nav{
-  margin:0 -15px !important;
+  margin:0 -15px;
 }
 .navbar-brand h1{
   color: #000;
